@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "960745828509",
+    "project_id": "universitytransport-dfeeb",
+    "storage_bucket": "universitytransport-dfeeb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960745828509:android:f271c08d553de435322474",
+        "android_client_info": {
+          "package_name": "com.example.utransport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960745828509-ls8tflp7qddmu31ep5nn8297bsjatj51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEiSRvQzD8yCNKdYqmj2pxypO_DI3dWa8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960745828509-ls8tflp7qddmu31ep5nn8297bsjatj51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
